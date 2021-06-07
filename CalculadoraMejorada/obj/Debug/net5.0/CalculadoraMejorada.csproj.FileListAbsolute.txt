@@ -1,0 +1,16 @@
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\bin\Debug\net5.0\CalculadoraMejorada.exe
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\bin\Debug\net5.0\CalculadoraMejorada.deps.json
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\bin\Debug\net5.0\CalculadoraMejorada.runtimeconfig.json
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\bin\Debug\net5.0\CalculadoraMejorada.runtimeconfig.dev.json
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\bin\Debug\net5.0\CalculadoraMejorada.dll
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\bin\Debug\net5.0\ref\CalculadoraMejorada.dll
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\bin\Debug\net5.0\CalculadoraMejorada.pdb
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\obj\Debug\net5.0\CalculadoraMejorada.csproj.AssemblyReference.cache
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\obj\Debug\net5.0\CalculadoraMejorada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\obj\Debug\net5.0\CalculadoraMejorada.AssemblyInfoInputs.cache
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\obj\Debug\net5.0\CalculadoraMejorada.AssemblyInfo.cs
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\obj\Debug\net5.0\CalculadoraMejorada.csproj.CoreCompileInputs.cache
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\obj\Debug\net5.0\CalculadoraMejorada.dll
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\obj\Debug\net5.0\ref\CalculadoraMejorada.dll
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\obj\Debug\net5.0\CalculadoraMejorada.pdb
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\CalculadoraMejorada\obj\Debug\net5.0\CalculadoraMejorada.genruntimeconfig.cache
