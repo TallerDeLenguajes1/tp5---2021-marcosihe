@@ -1,0 +1,16 @@
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\obj\Debug\net5.0\CalculadoraSimple.csproj.AssemblyReference.cache
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\obj\Debug\net5.0\CalculadoraSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\obj\Debug\net5.0\CalculadoraSimple.AssemblyInfoInputs.cache
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\obj\Debug\net5.0\CalculadoraSimple.AssemblyInfo.cs
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\obj\Debug\net5.0\CalculadoraSimple.csproj.CoreCompileInputs.cache
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\bin\Debug\net5.0\CalculadoraSimple.exe
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\bin\Debug\net5.0\CalculadoraSimple.deps.json
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\bin\Debug\net5.0\CalculadoraSimple.runtimeconfig.json
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\bin\Debug\net5.0\CalculadoraSimple.runtimeconfig.dev.json
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\bin\Debug\net5.0\CalculadoraSimple.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\bin\Debug\net5.0\ref\CalculadoraSimple.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\bin\Debug\net5.0\CalculadoraSimple.pdb
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\obj\Debug\net5.0\CalculadoraSimple.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\obj\Debug\net5.0\ref\CalculadoraSimple.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\obj\Debug\net5.0\CalculadoraSimple.pdb
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\CalculadoraSimple\obj\Debug\net5.0\CalculadoraSimple.genruntimeconfig.cache
