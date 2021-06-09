@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alternative\\Desktop\\C_sharp\\Taller1\\TP5_MarcosHerrera\\CalculadoraSimple\\CalculadoraSimple.csproj": {}
+    "C:\\Programacion\\UNT_PROGRAMADOR\\Taller_1\\tp5_MarcosHerrera\\tp5---2021-marcosihe\\CalculadoraSimple\\CalculadoraSimple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alternative\\Desktop\\C_sharp\\Taller1\\TP5_MarcosHerrera\\CalculadoraSimple\\CalculadoraSimple.csproj": {
+    "C:\\Programacion\\UNT_PROGRAMADOR\\Taller_1\\tp5_MarcosHerrera\\tp5---2021-marcosihe\\CalculadoraSimple\\CalculadoraSimple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alternative\\Desktop\\C_sharp\\Taller1\\TP5_MarcosHerrera\\CalculadoraSimple\\CalculadoraSimple.csproj",
+        "projectUniqueName": "C:\\Programacion\\UNT_PROGRAMADOR\\Taller_1\\tp5_MarcosHerrera\\tp5---2021-marcosihe\\CalculadoraSimple\\CalculadoraSimple.csproj",
         "projectName": "CalculadoraSimple",
-        "projectPath": "C:\\Users\\Alternative\\Desktop\\C_sharp\\Taller1\\TP5_MarcosHerrera\\CalculadoraSimple\\CalculadoraSimple.csproj",
+        "projectPath": "C:\\Programacion\\UNT_PROGRAMADOR\\Taller_1\\tp5_MarcosHerrera\\tp5---2021-marcosihe\\CalculadoraSimple\\CalculadoraSimple.csproj",
         "packagesPath": "C:\\Users\\Alternative\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alternative\\Desktop\\C_sharp\\Taller1\\TP5_MarcosHerrera\\CalculadoraSimple\\obj\\",
+        "outputPath": "C:\\Programacion\\UNT_PROGRAMADOR\\Taller_1\\tp5_MarcosHerrera\\tp5---2021-marcosihe\\CalculadoraSimple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alternative\\AppData\\Roaming\\NuGet\\NuGet.Config",

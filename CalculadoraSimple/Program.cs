@@ -92,7 +92,7 @@ namespace CalculadoraSimple
             }
         }
 
-        public static bool ControlarOpcionesDeMenu(double numero){
+        public static bool ControlarOpcionesDeMenu(int numero){
             if (numero == 1 || numero == 2 || numero == 3 || numero == 4)
             {
                 return true;
