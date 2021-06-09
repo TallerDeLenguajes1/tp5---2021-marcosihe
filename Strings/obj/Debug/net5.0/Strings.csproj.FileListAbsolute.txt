@@ -1,0 +1,16 @@
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\bin\Debug\net5.0\Strings.exe
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\bin\Debug\net5.0\Strings.deps.json
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\bin\Debug\net5.0\Strings.dll
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\bin\Debug\net5.0\ref\Strings.dll
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\bin\Debug\net5.0\Strings.pdb
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\obj\Debug\net5.0\Strings.dll
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\obj\Debug\net5.0\ref\Strings.dll
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\obj\Debug\net5.0\Strings.pdb
+C:\Programacion\UNT_PROGRAMADOR\Taller_1\tp5_MarcosHerrera\tp5---2021-marcosihe\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache
